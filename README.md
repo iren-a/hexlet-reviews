@@ -1,5 +1,8 @@
 # hexlet-reviews
 
+![Screenshot](screenshots/reviews.png)
+
+
 Создайте одностраничное приложение, которое позволяет:
 1. Загружать список отзывов для одной компании через redux-saga .
 2. Фильтровать отзывы:
@@ -18,6 +21,5 @@ npm install
 npm run dev
 ```
 
-![Screenshot](screenshots/reviews.png)
 
 
